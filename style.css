@@ -3,7 +3,7 @@ html {
   display:flex;
   justify-content:center;
   align-items:center;
-  background: url('xd.png'), linear-gradient(to top right, blue, red);
+  background: url('xd.PNG'), linear-gradient(to top right, blue, red);
   background-size: 100% 100%;
   /* background-repeat: no-repeat; */
   /* background-position: center center; */
